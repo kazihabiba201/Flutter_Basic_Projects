@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464950231699",
+    "project_id": "ostadflutterproject",
+    "storage_bucket": "ostadflutterproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464950231699:android:9a31925b486aa54ede0366",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464950231699-g00vsl250r61ohrph41bibv7imshv18q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCxehW_RUDvGXVgmHItl_nveSs78bxGFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464950231699-g00vsl250r61ohrph41bibv7imshv18q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
